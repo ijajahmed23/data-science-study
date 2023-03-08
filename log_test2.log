@@ -1,0 +1,56 @@
+2023-02-12 18:59:44,916 root INFO this is my log
+2023-02-12 18:59:44,917 root DEBUG debug
+2023-02-12 18:59:44,917 root WARNING tghis a warning
+2023-02-12 18:59:44,917 root ERROR error
+2023-02-12 18:59:44,918 root CRITICAL critical shit
+2023-02-12 19:13:01,345 parso.python.diff DEBUG diff parser start
+2023-02-12 19:13:01,345 parso.python.diff DEBUG line_lengths old: 7; new: 9
+2023-02-12 19:13:01,345 parso.python.diff DEBUG -> code[equal] old[1:6] new[1:6]
+2023-02-12 19:13:01,346 parso.python.diff DEBUG copy old[1:2] new[1:2]
+2023-02-12 19:13:01,347 parso.python.diff DEBUG parse_part from 3 to 9 (to 8 in part parser)
+2023-02-12 19:13:01,348 parso.python.diff DEBUG -> code[replace] old[7:7] new[7:9]
+2023-02-12 19:13:01,348 parso.python.diff DEBUG diff parser end
+2023-02-12 19:14:49,235 parso.python.diff DEBUG diff parser start
+2023-02-12 19:14:49,235 parso.python.diff DEBUG line_lengths old: 9; new: 11
+2023-02-12 19:14:49,236 parso.python.diff DEBUG -> code[equal] old[1:6] new[1:6]
+2023-02-12 19:14:49,236 parso.python.diff DEBUG copy old[1:2] new[1:2]
+2023-02-12 19:14:49,237 parso.python.diff DEBUG parse_part from 3 to 11 (to 10 in part parser)
+2023-02-12 19:14:49,238 parso.python.diff DEBUG -> code[replace] old[7:7] new[7:7]
+2023-02-12 19:14:49,238 parso.python.diff DEBUG -> code[equal] old[8:8] new[8:8]
+2023-02-12 19:14:49,238 parso.python.diff DEBUG -> code[replace] old[9:9] new[9:11]
+2023-02-12 19:14:49,238 parso.python.diff DEBUG diff parser end
+2023-02-12 19:15:15,221 parso.python.diff DEBUG diff parser start
+2023-02-12 19:15:15,221 parso.python.diff DEBUG line_lengths old: 11; new: 14
+2023-02-12 19:15:15,221 parso.python.diff DEBUG -> code[equal] old[1:10] new[1:10]
+2023-02-12 19:15:15,221 parso.python.diff DEBUG copy old[1:2] new[1:2]
+2023-02-12 19:15:15,223 parso.python.diff DEBUG parse_part from 3 to 14 (to 13 in part parser)
+2023-02-12 19:15:15,223 parso.python.diff DEBUG -> code[replace] old[11:11] new[11:14]
+2023-02-12 19:15:15,224 parso.python.diff DEBUG diff parser end
+2023-02-12 19:15:36,132 parso.python.diff DEBUG diff parser start
+2023-02-12 19:15:36,132 parso.python.diff DEBUG line_lengths old: 14; new: 1
+2023-02-12 19:15:36,132 parso.python.diff DEBUG -> code[replace] old[1:14] new[1:1]
+2023-02-12 19:15:36,132 parso.python.diff DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2023-02-12 19:15:36,132 parso.python.diff DEBUG diff parser end
+2023-02-12 19:15:50,237 parso.python.diff DEBUG diff parser start
+2023-02-12 19:15:50,237 parso.python.diff DEBUG line_lengths old: 1; new: 2
+2023-02-12 19:15:50,237 parso.python.diff DEBUG -> code[replace] old[1:1] new[1:2]
+2023-02-12 19:15:50,238 parso.python.diff DEBUG parse_part from 1 to 2 (to 1 in part parser)
+2023-02-12 19:15:50,238 parso.python.diff DEBUG diff parser end
+2023-02-12 19:23:47,853 root INFO this the start of my loop [1, 2, 3, 4, [4, 5, 6], 'ijaj', 'ahmed']
+2023-02-12 19:23:47,854 root INFO value of i 1
+2023-02-12 19:23:47,854 root INFO this the start of my loop [1, 2, 3, 4, [4, 5, 6], 'ijaj', 'ahmed']
+2023-02-12 19:23:47,854 root INFO value of i 2
+2023-02-12 19:23:47,854 root INFO this the start of my loop [1, 2, 3, 4, [4, 5, 6], 'ijaj', 'ahmed']
+2023-02-12 19:23:47,854 root INFO value of i 3
+2023-02-12 19:23:47,854 root INFO this the start of my loop [1, 2, 3, 4, [4, 5, 6], 'ijaj', 'ahmed']
+2023-02-12 19:23:47,854 root INFO value of i 4
+2023-02-12 19:23:47,854 root INFO this the start of my loop [1, 2, 3, 4, [4, 5, 6], 'ijaj', 'ahmed']
+2023-02-12 19:23:47,854 root INFO value of i [4, 5, 6]
+2023-02-12 19:23:47,855 root INFO value of i [4, 5, 6] and j 4
+2023-02-12 19:23:47,855 root INFO value of i [4, 5, 6] and j 5
+2023-02-12 19:23:47,855 root INFO value of i [4, 5, 6] and j 6
+2023-02-12 19:23:47,855 root INFO this the start of my loop [1, 2, 3, 4, [4, 5, 6], 'ijaj', 'ahmed']
+2023-02-12 19:23:47,855 root INFO value of i ijaj
+2023-02-12 19:23:47,855 root INFO this the start of my loop [1, 2, 3, 4, [4, 5, 6], 'ijaj', 'ahmed']
+2023-02-12 19:23:47,855 root INFO value of i ahmed
+2023-02-12 19:23:47,855 root INFO this is the end
